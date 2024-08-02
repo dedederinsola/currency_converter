@@ -1,0 +1,20 @@
+{
+    "name": "derin/websim",
+    "type": "project",
+    "require": {
+        "everapi/freecurrencyapi-php": "dev-master"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Derin\\Websim\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "dedederinsola",
+            "email": "aderinog@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
